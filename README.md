@@ -8,7 +8,7 @@ Utilizar o comando git init para iniciar o processo.
 git add nome_arquivo.extensao
 git status (para ver se tem algum item com atualizações)
 git commit -m "Escreva aqui um comentário sobre o commit"
-git add remote origin https://github.com/GuilhermeCarl/testeAutomatizadoPython.git
+git add remote origin 
 git push
 Como baixar os arquivos de um repositório:
 
